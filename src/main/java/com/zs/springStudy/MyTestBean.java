@@ -1,7 +1,7 @@
 package com.zs.springStudy;
 
 /**
- * bean类
+ * bean类1
  */
 public class MyTestBean {
     private String testStr = "testStr";
